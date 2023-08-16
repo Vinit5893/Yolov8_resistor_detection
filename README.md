@@ -27,7 +27,7 @@ Then run the [Train_Model_local.py](Train_Model_local.py)
 
 This python program will get a refference weight [YOLOv8n](https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8n.pt) and use it to train the model based on our custom data set.
 
-- Indicate the path, train and val directories in the config file with all the different classes defined in the object detection (based on the number of objectes to be detected).
+- Indicate the path, train and val directories in the [config.yaml](config.yaml) file with all the different classes defined in the object detection (based on the number of objectes to be detected).
 - We can set the number of epochs to improve the accuracy of trained model.
 
 
