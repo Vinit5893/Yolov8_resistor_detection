@@ -1,0 +1,8 @@
+path: '/home/vinit-linux/yolov8_resistors/Yolov8_resistor_detection' # dataset root dir
+train: train/images
+val: valid/images
+
+#classes
+names: 
+  0: r1
+  1: r2

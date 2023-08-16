@@ -1,0 +1,8 @@
+path: '/content/gdrive/My Drive/yolov8_resistor' # dataset root dir
+train: train/images
+val: valid/images
+
+#classes
+names: 
+  0: r1
+  1: r2
