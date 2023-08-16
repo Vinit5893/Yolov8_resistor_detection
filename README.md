@@ -59,6 +59,6 @@ I have used some [videos](videos/) to detect the presence of these resistors for
 4. Contact me to get claifications. (Disclaimer - I am also new to this field.)
 5. Change your career!!!!!
 
-### Refference : [Youtube video - Computer vision engineer](https://www.youtube.com/watch?v=Z-65nqxUdl4&t=1848s)
+### Refference : [Youtube video - Computer vision engineer](https://youtu.be/Z-65nqxUdl4)
 
 # THANK YOU
